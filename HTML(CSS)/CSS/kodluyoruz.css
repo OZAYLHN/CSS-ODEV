@@ -1,0 +1,28 @@
+/*  */
+
+h1{
+                  color:crimson;
+                  font-size:30px;
+                  font-style: oblique ;
+}
+
+a{                
+                  color:blue;
+                  font-size:medium ;
+                  font-style: oblique;
+}
+p{
+                  font-style:oblique;
+
+}
+strong{
+                  color: blue;
+}
+h3{
+                  color:crimson;
+}
+h4{
+                  color: brown;
+                  font-size: medium;
+                  font-style: italic;
+}
