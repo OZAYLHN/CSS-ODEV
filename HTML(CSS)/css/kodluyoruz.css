@@ -1,0 +1,103 @@
+/*  */
+.a1{
+    width:351px;
+    height: 113px;
+}
+.a2{
+padding-left: 39%;
+color: black;
+background-color:lightgrey;
+margin-left: 5%; 
+margin-right: 5%; 
+ margin-top: -2%;
+ margin-bottom: 0%;
+ padding-bottom: 4%;
+ /* border-bottom:21%;  */
+ /* width: 289px;  */
+ /* height: 112; */
+ /* border-bottom: 24%; */
+
+ }
+
+.a3{
+    
+    /* background-color: black; */
+    padding-left: 0%;
+    margin-top: -3%;
+    margin-left:38%;
+    margin-right:21%
+}
+
+    
+
+    /*  
+   div.a3{
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%; 
+    border-radius: 50%;
+} */
+ 
+.a4{
+    margin-left:47%;
+    margin-right:34%;
+    margin-top :-3%;
+    padding-left: -7%;
+}
+
+.a5{
+  background-color: rgb(19, 188, 188);
+ padding-bottom:7%;
+ /* border-left: 21%;  */
+ /* border-right: 21%;ç */
+  margin-left: 5%; 
+ padding-left: 10%;
+ margin-right: 64%;
+ padding-top: 1%;
+ /* padding-bottom:%; */
+ margin-top:0%;
+
+ }
+ .b1{
+    /* background-color: black; */
+    padding-left: 3%;
+    margin-right: 75%;
+    margin-left: 13%;
+    margin-top: -7%;
+
+ }
+ .b2{
+    /* background-color: black; */
+    margin-left: 16%;
+    margin-right: 76%;
+    padding-bottom: 1%;
+
+ }
+ .a6{
+background-color: rgb(165, 221, 222);
+    margin-top: -8%;
+    padding-left: 10%;
+    margin-left:37%;
+    margin-right:37%;
+    /* border-top: 12%; */
+    padding-top: 0%;
+    padding-bottom: 4%;
+    }
+
+.a7{
+background-color: aquamarine;
+    margin-left: 64%;
+    margin-right: 5%;
+    margin-top:-11%;
+    padding-bottom: 1%;
+    /* border-left: 12%; */
+    /* padding-bottom: 13%; */
+    padding-left: 12%;
+    }
+
+.b3{
+    /* background-color: black; */
+    /* color: blue; */
+    margin-left: 41%;
+    margin-right:43% ;
+    margin-top:1% ;
+}
